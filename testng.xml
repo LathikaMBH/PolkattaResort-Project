@@ -3,9 +3,8 @@
 <suite name="Suite1" verbose="1" >
     <test name="Main Flow" >
         <classes>
-            <class name="polkatta.project.test.EditYourAdvertiesment" />
+            <class name="polkatta.project.test.EditYourAdvertiesment"/>
         </classes>
+
     </test>
-
-
 </suite>

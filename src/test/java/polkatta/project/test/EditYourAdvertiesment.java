@@ -11,9 +11,9 @@ public class EditYourAdvertiesment {
 
     @Test
 
-    public void editmyAdvertiesment(){
+    public void editmyAdvertiesmentTest(){
 
-        System.setProperty("webdriver.chrome.driver","E:\\MY WORKSPACE\\PolkattaResortProject\\install\\drivers\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","E:\\MY WORKSPACE\\PolkattaResort-Project\\install\\drivers\\chromedriver.exe");
 
         WebDriver driver    = new ChromeDriver();
         HomePage homePage   = new HomePage(driver);
